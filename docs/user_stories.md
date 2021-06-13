@@ -1,8 +1,5 @@
 # User stories
 
-Fiche récap : https://kourou.oclock.io/ressources/fiche-recap/user-stories/#sp%c3%a9cifications
-
-
 | En tant que | Je veux | Afin de (si besoin/nécessaire) |
 |--|--|--|
 | visiteur | pouvoir consulter la liste des tâches | - |
